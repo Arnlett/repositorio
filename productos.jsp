@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+<body>
+<h1>PRODUCTOS.JSP</h1>
+<table>
+<tr>
+<th>ID</th>
+<th>DESCRIPCION</th>
+<th>1</th>
+<th>Teclado</th>
+</tr>
+</table>
+</body>
+</html>
